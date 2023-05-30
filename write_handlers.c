@@ -83,7 +83,7 @@ int write_number(int is_negative, int ind, char buffer[],
  * @ind: Index at which the number starts on the buffer
  * @buffer: Buffer
  * @flags: Flags
- * @width: width
+ * @width: width. 
  * @prec: Precision specifier
  * @length: Number length
  * @padd: Pading char
